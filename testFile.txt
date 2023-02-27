@@ -1,0 +1,1 @@
+Here is a test example to see if the GitHub contributions section gets updated when I stage, commit and push this update
